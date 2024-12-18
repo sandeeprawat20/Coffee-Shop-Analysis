@@ -1,20 +1,32 @@
 # Coffee Shop Data Analysis
-![](https://github.com/sandeeprawat20/Coffee-Shop-Dashboard/blob/main/Coffee%20Shop%20Project/Dashboard%20preview.png)
+## [Live Dashboard](https://1drv.ms/x/c/fccc68bccb3b72d8/ERrxFBCRQahNjbqh50biTUAB7q9M5utlosKKQ0l_Xy4LyQ?e=NLTITp)
 
-## Business Objective:
+## The project focused on answering key business questions:
 
-The main objective of this project is to analyze retail sales data to gain actionable insights that will enhance the performance of the Coffee Shop.
+📅 How do sales vary by day and time?
 
-## Business Problem:
+📍 Which store locations perform the best?
 
-· Understanding the variation in sales by day of the week and hour of the day.
+💡 What are the top-selling products and categories by revenue?
 
-· Identifying peak times for sales activity.
+💵 What is the average order value per person?
 
-· Analyzing total sales revenue for each month to identify trends and patterns.
+## Key Insights:
 
-· Evaluating sales performance across different store locations.
+1️⃣ Total Sales: $698,812.33 with 149,116 total footfall.
 
-· Calculating the average price per order and identifying best-selling products in terms of quantity and revenue.
+2️⃣ Peak Hours: Orders peak between 7 AM to 10 AM, highlighting strong morning demand.
 
-· Analyzing sales variation by product category and type to optimize marketing and inventory strategies.
+3️⃣ Top Products: Barista Espresso leads with $91,406.20 in sales.
+
+Other notable performers: Brewed Chai Tea and Hot Chocolate.
+
+4️⃣ Category Trends: Coffee dominates with 39% of total sales, followed by Bakery (28%).
+
+5️⃣ Store Performance: Hell's Kitchen leads with $236,511.17 in sales and the highest footfall.
+
+6️⃣ Weekly Trends: Fridays see the highest orders, while Saturdays show lower activity.
+
+Calculating the average price per order and identifying best-selling products in terms of quantity and revenue.
+
+Analyzing sales variation by product category and type to optimize marketing and inventory strategies.
